@@ -60,7 +60,7 @@ li.bg, .bg { float:right; clear:both; border-top:1px solid #e1e1e1; width:100%; 
 /* Slider */
 #slider {  width:678px; padding:10px 0; margin:0; background:#fff; border:1px solid #efefef;}
 #slider2 {  width:678px; padding:10px 0 0 0; margin:0; background:#fff; border:1px solid #efefef;}
-#slideshow { margin:0 auto; width:653px;  height: 346px; }
+#slideshow { margin:0 auto; width:653px;  height: 500px; }
 .slider-item { height: 346px; margin:0 auto; padding:0; }
 .slider_content_inner img { border: none; margin:0 auto; }
 .controls-center { width: 678px; margin:0 auto; padding:0; }
