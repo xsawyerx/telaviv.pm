@@ -6,13 +6,13 @@ html { padding:0; margin:0;}
 .main_resize { margin:0 auto; padding:0; width:945px;}
 .main_resize h2 { font:normal 20px Arial, Helvetica, sans-serif; color:#3a3a3a; padding:10px 5px; margin:0;}
 .main_resize h2 span { font: normal 11px Arial, Helvetica, sans-serif; color:#8f8f8f;}
-.main_resize p { font:normal 12px Arial, Helvetica, sans-serif; color:#565656; line-height:1.8em; padding:5px; margin:0;}
+.main_resize p, .main_resize dd { font:normal 12px Arial, Helvetica, sans-serif; color:#565656; line-height:1.8em; padding:5px; margin:0;}
 .main_resize p span { color:#cd4c0f; font: normal 11px Arial, Helvetica, sans-serif; line-height:1.8em;}
 .main_resize p.grey { font: normal 12px Arial, Helvetica, sans-serif; color:#898989; line-height:1.8em; padding:5px; margin:0;}
 .main_resize a { color:#cd4c0f; text-decoration:none; font: bold 11px Arial, Helvetica, sans-serif; padding:0; margin:0;}
 .main_resize img { margin:5px auto; padding:0;}
 .main_resize ul { list-style:none; margin:10px 0 10px 5px; padding:0;}
-.main_resize li { background:url(images/ul_li.gif) left no-repeat; padding:5px 0 3px 20px; margin:0; font:normal 12px Arial, Helvetica, sans-serif; color:#898989;}
+.main_resize li, .main_resize dt { background:url(images/ul_li.gif) left no-repeat; padding:5px 0 3px 20px; margin:0; font:normal 12px Arial, Helvetica, sans-serif; color:#898989;}
 .main_resize img.floated { float:left; margin:5px 5px; padding:0;}
 .main_left { width:223px; float:left; padding:0; margin:0;}
 .main_right { width:680px; float:right; padding:0; margin:0;}
