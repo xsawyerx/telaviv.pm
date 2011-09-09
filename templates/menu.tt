@@ -1,0 +1,40 @@
+<!-- start menu template -->
+    <div class="main_left">
+      <div class="logo"><a href="index.html"><img src="images/logo.gif" width="223" border="0" alt="logo" /></a></div>
+      <div class="clr"></div>
+      <div class="menu">
+        <ul>
+          <li><a href="index.html" [% isactive.search('index') ? 'class="active"' : '' %]><span>Home</span></a></li>
+          <li><a href="about.html" [% isactive.search('about') ? 'class="active"' : '' %]><span> About Us </span></a></li>
+          <li><a href="previous.html" [% isactive.search('previous') ? 'class="active"' : '' %]><span> Previous Events</span></a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <h2>&nbsp;</h2>
+      <h2>Upcoming events</h2>
+      <p>
+        <span>May 25th (25.05.11)</span><br/>
+        <strong>ABC Path solver, live demo</strong><br/>&nbsp;&nbsp;&nbsp;by <em>Shlomi Fish</em><br/>
+        <strong>Unicode considerations in Perl</strong><br/>&nbsp;&nbsp;&nbsp;by <em>Meir Guttman</em><br/>
+        <strong>Moose!!</strong><br/>&nbsp;&nbsp;&nbsp;by <em>Sawyer X</em><br/>
+      </p>
+      <p>
+        <span>June 29th (29.06.11)</span><br />
+        There are no scheduled talks yet.
+      </p>
+      <p>
+        <span>July 18th (18.07.11)</span><br/>
+        <strong>Free Software</strong> by <em>Dr. Richard Stallman</em>
+      </p>
+      <p>
+      	<span>August 31st (31.08.11)</span><br/>
+      	<strong>Git</strong> by <em>Sawyer X</em><br/>
+      	<strong>Gitflow</strong> by <em>Sawyer X</em><br/>
+      </p>
+      <p>
+      	<span>September 28th (28.09.11)</span><br/>
+		There are no scheduled talks yet.
+      </p>
+      <h2>&nbsp;</h2>
+    </div>
+<!--end menu template -->
