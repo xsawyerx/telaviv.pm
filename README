@@ -2,7 +2,6 @@ Tel Aviv Perl Monger's website.
 
 All templates reside on the templates folder.
 
-Once updated, simply run from the templates directory:
+Once updated, simply run:
 
-tpage some_file.tt ../some_file.html
-
+> templates/create.sh
