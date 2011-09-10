@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Attempting to create index.html..."
-tpage tempaltes/index.tt > index.html
+tpage templates/index.tt > index.html
 if [ "$?" -ne "0" ]; then
 	echo "Unable to create index.html"
 	exit 1
