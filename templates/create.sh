@@ -18,7 +18,7 @@ if [ "$?" -ne "0" ]; then
         exit 1 
 fi 
 
-echo "Attempting to create previous.html..."
+echo "Attempting to create about.html..."
 tpage about.tt > ../generated/about.html
 if [ "$?" -ne "0" ]; then
         echo "Unable to create about.html"
