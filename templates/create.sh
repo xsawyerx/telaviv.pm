@@ -8,13 +8,15 @@ PAGES="index previous about"
 
 for page in $PAGES; do
     echo "Creating $page..."
-    tpage $page.tt > ../generated/$page.html
+    tpage --define page=$page $page.tt > ../$page.html
 
     if [ "$?" -ne "0" ]; then
         echo "Failed"
         exit 1
     fi
 done
+
+cd ..
 
 exit 0;
 

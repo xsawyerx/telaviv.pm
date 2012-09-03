@@ -1,39 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-[%  
-	INCLUDE header.tt
-		title = 'Tel Aviv Perl Mongers (TA.pm / TelAviv.pm)'; 
-%]
-<div class="main">
-  <div class="main_resize">
-	[% INCLUDE menu.tt 
-		isactive = 'index'
-	%]
-    <div class="main_right">
-      <div id="slider">
-        <!-- start slideshow -->
-        <div id="slideshow">
-          <div class="slider-item"><img src="images/meeting.jpg" alt="icon" width="653" height="489" border="0" /></div>
-        </div>
-        <!-- end #slideshow -->
-        <div class="clr"></div>
-      </div>
-      <div class="clr"></div>
-      <h2 style="padding:20px 0 5px 5px;">Welcome to the Tel Aviv Perl Mongers group!</h2>
-      <p>
-        The group organizes social events centered around Perl in the greater Tel Aviv, Israel area.<br/>
-        We have talks, lectures, and casual meetings.<br/>
-        Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!<br/>
-        <strong>(The meetings are suitable for beginner, intermediate and advanced developers.)</strong>
-      </p>
-      <h2>Location</h2>
-      <p>
-        All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan, room 300</strong>!<br/>
-        We get together at <strong>6:30pm</strong>, and talks begin at <strong>7:00pm</strong>.
-      </p>
+[% WRAPPER root.tt %]
+			<div class="post">
+				<h2 class="title"><a href="#">Welcome!</a></h2>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+                    <h3>Perl Mongers</h3>
+                    <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
+                    <p><strong>(The meetings are suitable for beginner, intermediate and advanced developers)</strong></p>
 
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-    </div>
-    <div class="clr"></div>
-  </div>
-[% INCLUDE footer.tt %]
+                    <h3>Location</h3>
+                    <p>All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan</strong>!<br/>
+                    We get together at <strong>6:30pm</strong>, and talks begin at <strong>7:00pm</strong>.</p>
+				</div>
+			</div>
+[% END %]

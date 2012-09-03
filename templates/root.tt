@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : Emerald 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20120902
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="perl telaviv ta perl mongers perlmongers" />
+<meta name="description" content="Tel Aviv Perl Mongers group's website" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Tel Aviv Perl Mongers</title>
+<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper" class="container">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">TelAviv.pm</a></h1>
+		</div>
+		<div id="menu">
+            [% INCLUDE menu.tt %]
+		</div>
+	</div>
+	<div><img src="images/img03.png" width="1000" height="40" alt="" /></div>
+	</div>
+	<!-- end #header -->
+	<div id="page">
+		<div id="content">
+                [% content %]
+			<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<li>
+					<div style="clear: both;">&nbsp;</div>
+				</li>
+				<li>
+					<h2>Community Blogroll</h2>
+                    <ul>
+                        <li><a href="#">Gabor Szabo</a></li>
+                        <li><a href="#">Sawyer X</a></li>
+                        <li><a href="#">Shlomi Fish</a></li>
+                        <li><a href="#">Ynon Perek</a></li>
+                    </ul>
+				</li>
+				<li>
+					<h2>Resources</h2>
+					<ul>
+						<li><a href="#">Mailing list</a></li>
+						<li><a href="#">Perl Weekly</a></li>
+						<li><a href="#">Perl Blogs</a></li>
+					</ul>
+				</li>
+				<li>
+					<h2>Previous Events</h2>
+					<ul>
+						<li><a href="previous.html#date">Some date</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<div class="container"><img src="images/img03.png" width="1000" height="40" alt="" /></div>
+	<!-- end #page -->
+</div>
+<div id="footer-content"></div>
+<div id="footer">
+	<p>Copyleft (c) 2012 telaviv.pm.org. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
