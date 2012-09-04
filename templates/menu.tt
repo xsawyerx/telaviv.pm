@@ -3,5 +3,4 @@
                 <li[% page == 'photos'   ? ' class="current_page_item"' : '' %]><a href="photos.html">Photos</a></li>
                 <li[% page == 'previous' ? ' class="current_page_item"' : '' %]><a href="previous.html">Previous Events</a></li>
                 <li[% page == 'about'    ? ' class="current_page_item"' : '' %]><a href="about.html">About us</a></li>
-                <li[% page == 'contact'  ? ' class="current_page_item"' : '' %]><a href="contact.html">Contact</a></li>
 			</ul>
