@@ -8,7 +8,7 @@ PAGES="index previous about photos"
 
 for page in $PAGES; do
     echo "Creating $page..."
-    tpage --define page=$page $page.tt > ../$page.html
+    tpage --define page=$page $page.tt > ../generated/$page.html
 
     if [ "$?" -ne "0" ]; then
         echo "Failed"
@@ -17,6 +17,8 @@ for page in $PAGES; do
 done
 
 cd ..
+
+cp -rv images/ style.css generated/
 
 exit 0;
 
