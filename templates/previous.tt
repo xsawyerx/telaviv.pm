@@ -1,6 +1,6 @@
 [% WRAPPER root.tt %]
 			<div class="post">
-				<h2 class="title"><a href="#">Previous Events</a></h2>
+				<h2 class="title">Previous Events</h2>
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
                                 <h3>December 29th, 2012</h3>
