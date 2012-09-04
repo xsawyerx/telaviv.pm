@@ -23,20 +23,24 @@ Released   : 20120902
 	<div id="header-wrapper" class="container">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">TelAviv.pm</a></h1>
+			<h1><a href="/">TelAviv.pm</a></h1>
 		</div>
 		<div id="menu">
             [% INCLUDE menu.tt %]
 		</div>
 	</div>
+
 	<div><img src="images/img03.png" width="1000" height="40" alt="" /></div>
-	</div>
+    </div>
+
 	<!-- end #header -->
-	<div id="page">
+        <div id="page">
+
 		<div id="content">
                 [% content %]
 			<div style="clear: both;">&nbsp;</div>
-		</div>
+                    </div>
+
 		<!-- end #content -->
 		<div id="sidebar">
 			<ul>
@@ -67,12 +71,15 @@ Released   : 20120902
 					</ul>
 				</li>
 			</ul>
-		</div>
+                    </div>
+
 		<!-- end #sidebar -->
-		<div style="clear: both;">&nbsp;</div>
+                <div style="clear: both;">&nbsp;</div>
+
 	</div>
 	<div class="container"><img src="images/img03.png" width="1000" height="40" alt="" /></div>
-	<!-- end #page -->
+        <!-- end #page -->
+
 </div>
 <div id="footer-content"></div>
 <div id="footer">
