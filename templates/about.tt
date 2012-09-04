@@ -3,15 +3,15 @@
 				<h2 class="title"><a href="#">About Perl Mongers</a></h2>
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
-                    <p>The Perl Mongers are a local group of (mostly, but not necessarily) Perl programmers who meet every month. There is no registry of members, and anyone can come to any meeting. If you have the time, stop by!</p>
+                                <p>The Perl Mongers are a local group of (mostly, but not necessarily) Perl programmers who meet every month. There is no registry of members, and anyone can come to any meeting. If you have the time, stop by!</p>
 				</div>
 
 				<h2 class="title"><a href="#">Meetings</a></h2>
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
-                    <p>All meetings organized by TA.pm are completely <strong>100% free-of-charge</strong>, and <strong>everyone</strong> is invited. Anyone can give talks on almost any subject, while Perl-related subjects are obviously more recommended. :)</p>
-                    <p>If you feel like giving a talk, contact the general Israeli Perl Mongers<a href="http://mail.perl.org.il/mailman/listinfo/perl/"><em>perl@perl.org.il</em></a> mailing list, or contact <a href="mailto:xsawyerx ATT cpan DOTT org"><em>Sawyer X</em></a> directly.</p>
-                    <p>The meetings are suitable for beginners, intermediates and advanced!</p>
+                                <p>All meetings organized by TA.pm are completely <strong>100% free-of-charge</strong>, and <strong>everyone</strong> is invited. Anyone can give talks on almost any subject, while Perl-related subjects are obviously more recommended. :)</p>
+                                <p>If you feel like giving a talk, contact the general Israeli Perl Mongers<a href="http://mail.perl.org.il/mailman/listinfo/perl/"><em>perl@perl.org.il</em></a> mailing list, or contact <a href="mailto:xsawyerx ATT cpan DOTT org"><em>Sawyer X</em></a> directly.</p>
+                                <p>The meetings are suitable for beginners, intermediates and advanced!</p>
 				</div>
 			</div>
 [% END %]

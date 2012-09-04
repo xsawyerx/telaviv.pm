@@ -3,57 +3,57 @@
 				<h2 class="title"><a href="#">Previous Events</a></h2>
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
-                    <h3>December 29th, 2012</h3>
-                    <p>This was our first TA.pm since it has been reestablished.<br/>
-                    <a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
+                                <h3>December 29th, 2012</h3>
+                                <p>This was our first TA.pm since it has been reestablished.<br/>
+                                <a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
 				</div>
 
 				<div class="entry">
-                    <h3>June 26th, 2012</h3>
-                    <p>This meeting's subject was web development.</p>
-                    <dl>
-                      <dt><strong>What the hell is web development?</strong> by <em>Sawyer X</em></dt>
-                      <dd>A nice, easy, hopefully interesting, understandable introduction to web development.<br/>
-                      (beginner talk)</dd>
-                    
-                      <dt><strong>The web stack</strong> by <em>Ilan Arad</em></dt>
-                      <dd>A hands-on, discussion-oriented talk on advanced understanding of the web stack, from server-side to client-side.<br/>
-                      (advanced talk)</dd>
-                    </dl>
+                                <h3>June 26th, 2012</h3>
+                                <p>This meeting's subject was web development.</p>
+                                <dl>
+                                  <dt><strong>What the hell is web development?</strong> by <em>Sawyer X</em></dt>
+                                  <dd>A nice, easy, hopefully interesting, understandable introduction to web development.<br/>
+                                  (beginner talk)</dd>
+
+                                  <dt><strong>The web stack</strong> by <em>Ilan Arad</em></dt>
+                                  <dd>A hands-on, discussion-oriented talk on advanced understanding of the web stack, from server-side to client-side.<br/>
+                                  (advanced talk)</dd>
+                                </dl>
 				</div>
 
 				<div class="entry">
-                    <h3>February 23rd, 2011</h3>
-                    <dl>
-                      <dt><strong>Getting involved in open source, PT. 1</strong> by <em>Gabor Szabo</em></dt>
-                      <dd>You might know how to program, you might not, but do you work on open source projects?<br/>
-                      Have you always wanted to? Now you'll learn how to do it!<br/>
-                      We'll be taking a real example of an active open source project.</dd>
-                      <dt><strong>[Lightning talk] There are TOO MANY ways to do it!</strong> by <em>Shlomi Fish</em></dt>
-                      <dd>(simple problem, a ton of solutions)</dd>
-                      <dt><strong>[Lightning talk] Surprise talk</strong> by <em>an anonymous speaker</em></dt>
-                      <dd>(this talk will be so fast, you won't see it coming!)</dd>
-                      <dt><strong>Our local state, my my</strong> by <em>Sawyer X</em></dt>
-                      <dd>Perl has several ways to define variables (my, local, our, state), and they can get confusing.<br/>
-                      The final showdown will explain how each works, what they really do, and when to use them.<br/>
-                      Yes! Finally!! :)</dd>
-                    </dl>
+                                <h3>February 23rd, 2011</h3>
+                                <dl>
+                                  <dt><strong>Getting involved in open source, PT. 1</strong> by <em>Gabor Szabo</em></dt>
+                                  <dd>You might know how to program, you might not, but do you work on open source projects?<br/>
+                                  Have you always wanted to? Now you'll learn how to do it!<br/>
+                                  We'll be taking a real example of an active open source project.</dd>
+                                  <dt><strong>[Lightning talk] There are TOO MANY ways to do it!</strong> by <em>Shlomi Fish</em></dt>
+                                  <dd>(simple problem, a ton of solutions)</dd>
+                                  <dt><strong>[Lightning talk] Surprise talk</strong> by <em>an anonymous speaker</em></dt>
+                                  <dd>(this talk will be so fast, you won't see it coming!)</dd>
+                                  <dt><strong>Our local state, my my</strong> by <em>Sawyer X</em></dt>
+                                  <dd>Perl has several ways to define variables (my, local, our, state), and they can get confusing.<br/>
+                                  The final showdown will explain how each works, what they really do, and when to use them.<br/>
+                                  Yes! Finally!! :)</dd>
+                                </dl>
 				</div>
 
 				<div class="entry">
-                    <h3>March 30th, 2011</h3>
-                    <dl>
-                      <dt><strong>Typography WTF? or "Correct understanding and usage"</strong> by <em>Miss Ferret</em></dt>
-                      <dd>It's time to bring some color into your life. We'll explain what typography is and why the font we choose matters.</dd>
-                      <dt><strong>Graphical game development in Perl using Coro</strong> by <em>Ran Eilam</em></dt>
-                      <dd>You like games? Want to write one? Ran will show us his pet project, a game written in Perl using SDL and co-routines (via the Coro module).</dd>
-                    </dl>
+                                <h3>March 30th, 2011</h3>
+                                <dl>
+                                  <dt><strong>Typography WTF? or "Correct understanding and usage"</strong> by <em>Miss Ferret</em></dt>
+                                  <dd>It's time to bring some color into your life. We'll explain what typography is and why the font we choose matters.</dd>
+                                  <dt><strong>Graphical game development in Perl using Coro</strong> by <em>Ran Eilam</em></dt>
+                                  <dd>You like games? Want to write one? Ran will show us his pet project, a game written in Perl using SDL and co-routines (via the Coro module).</dd>
+                                </dl>
 
-                    <p>And a fun round of lightning talks featuring:</p>
-                    <dl>
-                      <dt><strong>Ruby for Perl programmers</strong> by <em>Ido Kanner</em></dt>
-                      <dt><strong>Analytical Perl, "use" vs. "require"</strong> by <em>Sawyer X</em></dt>
-                    </dl>
+                                <p>And a fun round of lightning talks featuring:</p>
+                                <dl>
+                                  <dt><strong>Ruby for Perl programmers</strong> by <em>Ido Kanner</em></dt>
+                                  <dt><strong>Analytical Perl, "use" vs. "require"</strong> by <em>Sawyer X</em></dt>
+                                </dl>
 				</div>
 			</div>
 [% END %]
