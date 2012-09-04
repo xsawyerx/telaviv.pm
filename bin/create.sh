@@ -1,5 +1,7 @@
 #!/bin/sh
 
+mkdir generated
+
 if [ -d templates ]; then
     cd templates
 fi
