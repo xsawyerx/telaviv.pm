@@ -50,24 +50,27 @@ Released   : 20120902
 				<li>
 					<h2>Community Blogroll</h2>
                     <ul>
-                        <li><a href="#">Gabor Szabo</a></li>
-                        <li><a href="#">Sawyer X</a></li>
-                        <li><a href="#">Shlomi Fish</a></li>
-                        <li><a href="#">Ynon Perek</a></li>
+                        <li><a href="http://szabgab.com/">Gabor Szabo</a></li>
+                        <li><a href="http://blogs.perl.org/users/sawyer_x/">Sawyer X</a></li>
+                        <li><a href="http://shlomif-tech.livejournal.com/">Shlomi Fish</a></li>
+                        <li><a href="http://publicspeakr.blogspot.co.il/">Ynon Perek</a></li>
                     </ul>
 				</li>
 				<li>
 					<h2>Resources</h2>
 					<ul>
-						<li><a href="#">Mailing list</a></li>
-						<li><a href="#">Perl Weekly</a></li>
-						<li><a href="#">Perl Blogs</a></li>
+						<li><a href="http://mail.perl.org.il/mailman/listinfo/perl/">Mailing list</a></li>
+						<li><a href="http://perlweekly.com/">Perl Weekly</a></li>
+						<li><a href="http://blogs.perl.org/">Perl Blogs</a></li>
 					</ul>
 				</li>
 				<li>
-					<h2>Previous Events</h2>
+                                <h2><a href="previous.html">Previous Events</a></h2>
 					<ul>
-						<li><a href="previous.html#date">Some date</a></li>
+                                            <li><a href="previous.html#291212">December 29th, 2012</a></li>
+                                            <li><a href="previous.html#260612">June 26th, 2012</a></li>
+                                            <li><a href="previous.html#230211">February 23rd, 2011</a></li>
+                                            <li><a href="previous.html#300311">March 30th, 2011</a></li>
 					</ul>
 				</li>
 			</ul>

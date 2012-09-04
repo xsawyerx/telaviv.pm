@@ -3,13 +3,13 @@
 				<h2 class="title">Previous Events</h2>
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
-                                <h3>December 29th, 2012</h3>
+                                <h3><a name="291212">December 29th, 2012</a></h3>
                                 <p>This was our first TA.pm since it has been reestablished.<br/>
                                 <a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
 				</div>
 
 				<div class="entry">
-                                <h3>June 26th, 2012</h3>
+                                <h3><a name="260612">June 26th, 2012</a></h3>
                                 <p>This meeting's subject was web development.</p>
                                 <dl>
                                   <dt><strong>What the hell is web development?</strong> by <em>Sawyer X</em></dt>
@@ -23,7 +23,7 @@
 				</div>
 
 				<div class="entry">
-                                <h3>February 23rd, 2011</h3>
+                                <h3><a name="230211">February 23rd, 2011</a></h3>
                                 <dl>
                                   <dt><strong>Getting involved in open source, PT. 1</strong> by <em>Gabor Szabo</em></dt>
                                   <dd>You might know how to program, you might not, but do you work on open source projects?<br/>
@@ -41,7 +41,7 @@
 				</div>
 
 				<div class="entry">
-                                <h3>March 30th, 2011</h3>
+                                <h3><a name="300311">March 30th, 2011</a></h3>
                                 <dl>
                                   <dt><strong>Typography WTF? or "Correct understanding and usage"</strong> by <em>Miss Ferret</em></dt>
                                   <dd>It's time to bring some color into your life. We'll explain what typography is and why the font we choose matters.</dd>
