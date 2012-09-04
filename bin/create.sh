@@ -4,7 +4,7 @@ if [ -d templates ]; then
     cd templates
 fi
 
-PAGES="index previous about"
+PAGES="index previous about photos"
 
 for page in $PAGES; do
     echo "Creating $page..."
