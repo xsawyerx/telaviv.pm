@@ -206,7 +206,7 @@ a:hover {
 
 #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 #menu .current_page_item a {

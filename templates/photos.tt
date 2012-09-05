@@ -1,0 +1,9 @@
+[% WRAPPER root.tt %]
+			<div class="post">
+				<h2 class="title">Photos</h2>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+                                <img src="images/meeting.jpg" />
+				</div>
+			</div>
+[% END %]
