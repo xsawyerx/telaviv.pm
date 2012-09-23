@@ -3,6 +3,21 @@
 This was our first TA.pm since it has been reestablished.
 <a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
 
+=head2 Why Perl? :: Sawyer X
+
+A short talk on what makes Perl such a compelling language to learn and work
+with, focusing on Modern Perl and innovative technologies.
+
+=head2 What's new in Perl 5.10 and 5.12 :: Gabor Szabo
+
+Find out what exciting features new versions of Perl offer.
+
+=head2 Read only state for fun and profit :: Yuval Kogman
+
+Even though Perl is highly optimized for modifying data in place, using read
+only state can be very rewarding. What is immutability and when it should be
+applied.
+
 =head1 26 January, 2011
 
 This meeting's subject was web development.
