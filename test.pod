@@ -1,5 +1,10 @@
 =head1 29 December, 2010
 
+This was our first TA.pm since it has been reestablished.
+<a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
+
+=head1 26 January, 2011
+
 This meeting's subject was web development.
 
 =head2 What the hell is web development? :: Sawyer X
@@ -12,7 +17,7 @@ A nice, easy, hopefully interesting, understandable introduction to web developm
 A hands-on, discussion-oriented talk on advanced understanding of the web stack, from server-side to client-side.
 (advanced talk)
 
-=head1 26 January, 2011
+=head1 23 February, 2011
 
 =head2 Getting involved in open source, PT. 1 :: Gabor Szabo
 
@@ -33,4 +38,18 @@ We'll be taking a real example of an active open source project.
 Perl has several ways to define variables (my, local, our, state), and they can get confusing.
 The final showdown will explain how each works, what they really do, and when to use them.
 Yes! Finally!! :)
+
+=head1 30 March, 2011
+
+=head2 Typography WTF? or "Correct understanding and usage" :: Miss Ferret
+
+It's time to bring some color into your life. We'll explain what typography is and why the font we choose matters.
+
+=head2 Graphical game development in Perl using Coro :: Ran Eilam
+
+You like games? Want to write one? Ran will show us his pet project, a game written in Perl using SDL and co-routines (via the Coro module).
+
+=head2 [Lightning talk] Ruby for Perl programmers :: Ido Kanner
+
+=head2 [Lightning talk] Analytical Perl, "use" vs. "require" :: Sawyer X
 
