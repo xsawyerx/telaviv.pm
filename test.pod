@@ -117,6 +117,8 @@ Topics covered:
 
 =item * Send a patch
 
+=back
+
 =head2 Hackathon
 
 Then we form groups of 2-3 people and fix bugs in CPAN modules. We can
@@ -308,7 +310,7 @@ stack, from server-side to client-side. (advanced talk)
 =head1 29 December, 2010
 
 This was our first TA.pm since it has been reestablished.
-<a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
+E<lt>a href="images/flyers/tapm.png" target="_blank"\E<gt>Flyer available hereE<lt>/aE<gt>
 
 =head2 Why Perl? :: Sawyer X
 
