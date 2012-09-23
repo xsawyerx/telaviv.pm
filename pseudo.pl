@@ -35,7 +35,8 @@ sub _handle_text {
         $prev_type = $cur_type;
     } elsif ( $cur_type eq 'head2' ) {
         my ( $title, $speaker ) = split /\s*::\s*/, $text;
-        print "  ** Creating new talk: $title by $speaker\n";
+        $speaker ||= '';
+        print "  ** Creating new talk: $title" . $speaker ? " by $speaker\n" : "\n";
 
         $cur_talk = Talk->new( title => $title, speaker => $speaker );
         push @{ $events{ $cur_event->date }->talks }, $cur_talk;
