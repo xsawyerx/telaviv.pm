@@ -30,7 +30,7 @@ sub _handle_text {
     if ( $cur_type eq 'head1' ) {
         print "* Creating new event ($text)\n";
 
-        $cur_event = Event->new( date => $text );
+        $cur_event = PM::TA::Event->new( date => $text );
         $events{ $cur_event->date } = $cur_event;
         $prev_type = $cur_type;
     } elsif ( $cur_type eq 'head2' ) {
@@ -38,7 +38,7 @@ sub _handle_text {
         $speaker ||= '';
         print "  ** Creating new talk: $title" . $speaker ? " by $speaker\n" : "\n";
 
-        $cur_talk = Talk->new( title => $title, speaker => $speaker );
+        $cur_talk = PM::TA::Talk->new( title => $title, speaker => $speaker );
         push @{ $events{ $cur_event->date }->talks }, $cur_talk;
         $prev_type = $cur_type;
     } else {
