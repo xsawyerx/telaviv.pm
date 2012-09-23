@@ -1,0 +1,36 @@
+=head1 29 December, 2010
+
+This meeting's subject was web development.
+
+=head2 What the hell is web development? :: Sawyer X
+
+A nice, easy, hopefully interesting, understandable introduction to web development.
+(beginner talk)
+
+=head2 The web stack :: Ilan Arad
+
+A hands-on, discussion-oriented talk on advanced understanding of the web stack, from server-side to client-side.
+(advanced talk)
+
+=head1 26 January, 2011
+
+=head2 Getting involved in open source, PT. 1 :: Gabor Szabo
+
+You might know how to program, you might not, but do you work on open source projects?
+Have you always wanted to? Now you'll learn how to do it!
+We'll be taking a real example of an active open source project.
+
+=head2 [Lightning talk] There are TOO MANY ways to do it! :: Shlomi Fish
+
+(simple problem, a ton of solutions)
+
+=head2 [Lightning talk] Surprise talk :: an anonymous speaker
+
+(this talk will be so fast, you won't see it coming!)
+
+=head2 Our local state, my my :: Sawyer X
+
+Perl has several ways to define variables (my, local, our, state), and they can get confusing.
+The final showdown will explain how each works, what they really do, and when to use them.
+Yes! Finally!! :)
+
