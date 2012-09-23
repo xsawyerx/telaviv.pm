@@ -1,36 +1,16 @@
-=head1 29 December, 2010
+=head1 30 March, 2011
 
-This was our first TA.pm since it has been reestablished.
-<a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
+=head2 Typography WTF? or "Correct understanding and usage" :: Miss Ferret
 
-=head2 Why Perl? :: Sawyer X
+It's time to bring some color into your life. We'll explain what typography is and why the font we choose matters.
 
-A short talk on what makes Perl such a compelling language to learn and work
-with, focusing on Modern Perl and innovative technologies.
+=head2 Graphical game development in Perl using Coro :: Ran Eilam
 
-=head2 What's new in Perl 5.10 and 5.12 :: Gabor Szabo
+You like games? Want to write one? Ran will show us his pet project, a game written in Perl using SDL and co-routines (via the Coro module).
 
-Find out what exciting features new versions of Perl offer.
+=head2 [Lightning talk] Ruby for Perl programmers :: Ido Kanner
 
-=head2 Read only state for fun and profit :: Yuval Kogman
-
-Even though Perl is highly optimized for modifying data in place, using read
-only state can be very rewarding. What is immutability and when it should be
-applied.
-
-=head1 26 January, 2011
-
-This meeting's subject was web development.
-
-=head2 What the hell is web development? :: Sawyer X
-
-A nice, easy, hopefully interesting, understandable introduction to web development.
-(beginner talk)
-
-=head2 The web stack :: Ilan Arad
-
-A hands-on, discussion-oriented talk on advanced understanding of the web stack, from server-side to client-side.
-(advanced talk)
+=head2 [Lightning talk] Analytical Perl, "use" vs. "require" :: Sawyer X
 
 =head1 23 February, 2011
 
@@ -54,17 +34,37 @@ Perl has several ways to define variables (my, local, our, state), and they can 
 The final showdown will explain how each works, what they really do, and when to use them.
 Yes! Finally!! :)
 
-=head1 30 March, 2011
+=head1 26 January, 2011
 
-=head2 Typography WTF? or "Correct understanding and usage" :: Miss Ferret
+This meeting's subject was web development.
 
-It's time to bring some color into your life. We'll explain what typography is and why the font we choose matters.
+=head2 What the hell is web development? :: Sawyer X
 
-=head2 Graphical game development in Perl using Coro :: Ran Eilam
+A nice, easy, hopefully interesting, understandable introduction to web development.
+(beginner talk)
 
-You like games? Want to write one? Ran will show us his pet project, a game written in Perl using SDL and co-routines (via the Coro module).
+=head2 The web stack :: Ilan Arad
 
-=head2 [Lightning talk] Ruby for Perl programmers :: Ido Kanner
+A hands-on, discussion-oriented talk on advanced understanding of the web stack, from server-side to client-side.
+(advanced talk)
 
-=head2 [Lightning talk] Analytical Perl, "use" vs. "require" :: Sawyer X
+=head1 29 December, 2010
+
+This was our first TA.pm since it has been reestablished.
+<a href="images/flyers/tapm.png" target="_blank">Flyer available here</a></p>
+
+=head2 Why Perl? :: Sawyer X
+
+A short talk on what makes Perl such a compelling language to learn and work
+with, focusing on Modern Perl and innovative technologies.
+
+=head2 What's new in Perl 5.10 and 5.12 :: Gabor Szabo
+
+Find out what exciting features new versions of Perl offer.
+
+=head2 Read only state for fun and profit :: Yuval Kogman
+
+Even though Perl is highly optimized for modifying data in place, using read
+only state can be very rewarding. What is immutability and when it should be
+applied.
 
