@@ -9,9 +9,9 @@ has talks => ( is => 'rw', default => sub {[]} );
 
 package Talk;
 use Moo;
-has title   => ( is => 'ro' );
-has speaker => ( is => 'ro' );
-has details => ( is => 'rw' );
+has title    => ( is => 'ro' );
+has speaker  => ( is => 'ro' );
+has abstract => ( is => 'rw' );
 
 package PseudoTA;
 use parent 'Pod::Simple';
@@ -44,8 +44,8 @@ sub _handle_text {
         if ( $prev_type eq 'head1' ) {
             $cur_event->intro($text);
         } elsif ( $prev_type eq 'head2' ) {
-            print "  ++ Setting talk details\n";
-            $cur_talk->details($text);
+            print "  ++ Setting talk abstract\n";
+            $cur_talk->abstract($text);
         }
     }
 }
