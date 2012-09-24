@@ -6,6 +6,8 @@ if [ -d templates ]; then
     cd templates
 fi
 
+../bin/render_events.pl events.haml > previous.tt
+
 PAGES="index previous about photos"
 
 for page in $PAGES; do
