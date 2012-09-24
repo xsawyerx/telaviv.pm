@@ -12,22 +12,4 @@
                             We get together at <strong>6:30pm</strong>, and talks begin at <strong>7:00pm</strong>.</p>
                         </div>
                     </div>
-
-                    <div class="post">
-                        <h2 class="title">Meeting on September 19th, 2012</h2>
-                        <div style="clear: both;">&nbsp;</div>
-                        <div class="entry">
-                            <h3>Location</h3>
-                            <p>Shenkar College, 8th Yeda Am street, Ramat Gan.</br>
-                            Floor 2, room 2106 in the new building.</p>
-                            <h3>Time</h3>
-                            <p>Meeting at 18:30, the talks begin at 19:00.</p>
-                            <h3>Agenda</h3>
-                            <ul>
-                                <li><u><a href="http://ynonperek.com/">Ynon Perek</a></u>: Meta-Moose (using the meta object, dynamically add methods, play with attributes etc.) (20 min)</li>
-                                <li><u><a href="http://www.shlomifish.org/">Shlomi Fish</a></u>: <a href="http://projecteuler.net/">Project Euler</a>.</li>
-                                <li>Moshe Nahmias: introducing the mail stats program.</li>
-                            </ul>
-                        </div>
-                    </div>
 [% END %]
