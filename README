@@ -2,7 +2,11 @@ These are the sources for the website of the Tel Aviv Perl Mongers:
 
 http://telaviv.pm.org/
 
-All templates reside in the "templates" folder.
+All templates reside in the "templates" folder. The list of events is in Haml
+form in the "templates/events.haml" file. The previous events template
+(previous.tt) is creates from a Perl script (bin/render_events.pl).
+
+You'll need Template (Template::Toolkit), IO::All and Text::Haml.
 
 Once updated, simply run:
 
