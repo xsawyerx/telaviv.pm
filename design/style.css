@@ -228,10 +228,6 @@ a:hover {
 	padding: 50px 0px 0px 0px;
 }
 
-#content a {
-	text-decoration: underline;
-}
-
 .post {
 	overflow: hidden;
 	margin-bottom: 40px;
