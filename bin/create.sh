@@ -1,18 +1,33 @@
-#!/bin/sh
+#!/bin/bash
 
-mkdir generated
+cond_mkdir()
+{
+    d="$1"
+    shift
 
-if [ -d templates ]; then
-    cd templates
+    if ! [ -d "$d" ] ; then
+        mkdir "$d"
+    fi
+}
+
+cond_mkdir "generated"
+
+base="$(pwd)"
+
+if ! [ -d templates ]; then
+    echo "Cannot find the 'templates' directory" 1>&2
+    exit -1
 fi
 
-../bin/render_events.pl events.haml > previous.tt
+pushd templates
 
-PAGES="index previous about photos"
+"$base"/bin/render_events.pl events.haml > previous.tt
 
-for page in $PAGES; do
+pages_list="index previous about photos"
+
+for page in $pages_list; do
     echo "Creating $page..."
-    tpage --define page=$page $page.tt > ../generated/$page.html
+    tpage --define page="$page" "$page".tt > "$base"/generated/"$page".html
 
     if [ "$?" -ne "0" ]; then
         echo "Failed"
@@ -20,7 +35,7 @@ for page in $PAGES; do
     fi
 done
 
-cd ..
+popd
 
 cp -rv images/ style.css generated/
 
