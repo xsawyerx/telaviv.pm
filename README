@@ -11,3 +11,8 @@ You'll need Template (Template::Toolkit), IO::All and Text::Haml.
 Once updated, simply run:
 
     $ ./bin/create.sh
+
+What's index.old.html:
+
+A piece of history. :)
+It is kept as a reminder of the old website.
