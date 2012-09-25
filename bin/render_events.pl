@@ -6,10 +6,20 @@ use warnings;
 use IO::All;
 use Text::Haml;
 
-@ARGV == 1 or die "$0 <file.haml>";
+my $filename = shift(@ARGV);
+
+if (!defined($filename))
+{
+    die "$0 <file.haml>";
+}
+
+if (@ARGV)
+{
+    die "$0 accepts only parameter - <file.haml>";
+}
 
 my $haml     = Text::Haml->new;
-my $template = io( $ARGV[0] )->slurp;
+my $template = io( $filename )->slurp;
 my $output   = $haml->render($template);
 
 print << "_END";
