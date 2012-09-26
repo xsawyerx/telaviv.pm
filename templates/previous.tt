@@ -8,7 +8,10 @@
       <dt>
         <strong>Meta-Moose :: Ynon Perek</strong>
       </dt>
-      <dd>Using the meta object, dynamically add methods, play with attributes, and more.</dd>
+      <dd>
+        Using the meta object, dynamically add methods, play with attributes, and more. The slides are
+        <a href='http://www.slideshare.net/YnonPerek/metamoose-14339965'>available here</a>
+      </dd>
       <dt>
         <strong>Project Euler :: Shlomi Fish</strong>
       </dt>
