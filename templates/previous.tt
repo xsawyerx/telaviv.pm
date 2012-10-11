@@ -144,6 +144,12 @@
       <dt>
         <strong>Sphinx - Documentation in action :: Meir Kriheli</strong>
       </dt>
+      <dd>
+        Sphinx is a documentation generator.
+        Covering reStructuredText and writing documentation, the Python domain
+        and a bit of Perl.  The slides are
+        <a href='http://meirkriheli.com/talks/#sphinx'>available here</a>
+      </dd>
       <dt>
         <strong>How to contribute to a CPAN module :: Gabor Szabo</strong>
       </dt>
