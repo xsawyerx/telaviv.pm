@@ -5,6 +5,7 @@
                         <div class="entry">
                             <h3>Next meeting: October 31st!</h3>
                             <p>Our next meeting will be held on Wednesday, October 31st!<br/>
+                            <b>Room 2103</b><br/>
                             The following talks will take place:</p>
                             <h4>Writing automatic tests with Selenium :: <i>Pavel Zhytomirsky</i></h4>
                             (Selenium, WebDriver, TAP, TAP::Harness)
