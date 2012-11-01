@@ -3,6 +3,27 @@
 <h2 class="title">Previous Events</h2>
 <div style="clear: both;">&nbsp;</div>
 <div class='entry'>
+  <h3 id='meeting_oct_31_2012'>October 31st, 2012</h3>
+    <dl>
+      <dt>
+        <strong>Writing automatic tests with Selenium :: Pavel Zhytomirsky</strong>
+      </dt>
+      <dd>
+        Selenium, WebDriver, TAP, TAP::Harness
+      </dd>
+      <dt>
+        <strong>MongoDB :: Meir Kriheli</strong>
+      </dt>
+      <dd>
+        The slides are
+        <a href='http://meirkriheli.com/en/talks/#mongodb'>available here.</a>
+      </dd>
+      <dt>
+        <strong>Linux Perl Daemons :: Uri Hartmann</strong>
+      </dt>
+    </dl>
+</div>
+<div class='entry'>
   <h3 id='meeting_sep_19_2012'>September 19th, 2012</h3>
     <dl>
       <dt>
