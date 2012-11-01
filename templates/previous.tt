@@ -6,10 +6,11 @@
   <h3 id='meeting_oct_31_2012'>October 31st, 2012</h3>
     <dl>
       <dt>
-        <strong>Writing automatic tests with Selenium :: Pavel Zhytomirsky</strong>
+        <strong>Writing Automatic Test Using Selenium :: Pavel Zhytomirsky</strong>
       </dt>
       <dd>
-        Selenium, WebDriver, TAP, TAP::Harness
+        Slides and code examples:
+        <a href='https://github.com/R3VoLuT1OneR/Selenium-Perl-Tutorial'></a>
       </dd>
       <dt>
         <strong>MongoDB :: Meir Kriheli</strong>
