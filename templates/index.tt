@@ -3,9 +3,27 @@
                         <h2 class="title">Welcome!</h2>
                         <div style="clear: both;">&nbsp;</div>
                         <div class="entry">
-                            <h3>Next meeting: October 31st!</h3>
+                            <h3>Next meeting: November 28th!</h3>
                             <p>Our next meeting will be held on Wednesday, November 28th!<br/>
-                            Talks still pending.</p>
+                            <b>Room 2103</b></p>
+                            <p>The following talks will take place:</p>
+                            <h4>Binding Shared Libraries with Perl :: <a href="https://idkn.wordpress.com/"><i>Ido Kanner</i></a></h4>
+                            Overview of what shared libraries are, and how to bind their functions to Perl.
+
+                            <h4>Real Time Web with Pocket::IO :: <a href="http://mobileweb.ynonperek.com/about"><i>Ynon Perek</i></a></h4>
+                            <p>The Internet is changing direction. More and more web-sites want to notify their visitors in real
+                            time about changes that happen on the server (for instance, a different visitor uploaded a photo).
+                            A library called Socket IO unifies all the various ways to send messages from the server to the
+                            computers of the visitors and allows the programmer to write an Internet application that gets updated
+                            in real time. vti implemented the library in Perl as Pocket::IO.</p>
+
+                            <p>In this talk, I will present the ideas behind Real Time Web, including code excerpts in Perl which
+                            use the library in order to create interactive sites.</p>
+
+                            <h4>Regular Expressions Demystified :: <a href="http://blogs.perl.org/users/sawyer_x/"><i>Sawyer X</i></a></h4>
+                            <p>Do you use Regular Expressions? No? Would you like to? Do you find them complicated or confusing?
+                            Let's try to fix that. A beginner's talk for introducing simple, smart, easy-to-understand Regular
+                            Expressions.</p>
 
                             <h3>Perl Mongers</h3>
                             <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
