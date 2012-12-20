@@ -3,6 +3,37 @@
 <h2 class="title">Previous Events</h2>
 <div style="clear: both;">&nbsp;</div>
 <div class='entry'>
+  <h3 id='meeting_nov_28_2012'>November 28th, 2012</h3>
+    <dl>
+      <dt>
+        <strong>Binding Shared Libraries with Perl :: Ido Kanner</strong>
+      </dt>
+      <dd>
+        Overview of what shared libraries are, and how to bind their functions to Perl.
+      </dd>
+      <dt>
+        <strong>Real Time Web with Pocket::IO :: Ynon Perek</strong>
+      </dt>
+      <dd>
+        The Internet is changing direction. More and more web-sites want to notify their visitors in real
+        time about changes that happen on the server (for instance, a different visitor uploaded a photo).
+        A library called Socket IO unifies all the various ways to send messages from the server to the
+        computers of the visitors and allows the programmer to write an Internet application that gets updated
+        in real time. vti implemented the library in Perl as Pocket::IO.
+        In this talk, I will present the ideas behind Real Time Web, including code excerpts in Perl which
+        use the library in order to create interactive sites.
+      </dd>
+      <dt>
+        <strong>Regular Expressions Demystified :: Sawyer X</strong>
+      </dt>
+      <dd>
+        Do you use Regular Expressions? No? Would you like to? Do you find them complicated or confusing?
+        Let&apos;s try to fix that. A beginner&apos;s talk for introducing simple, smart, easy-to-understand Regular
+        Expressions.
+      </dd>
+    </dl>
+</div>
+<div class='entry'>
   <h3 id='meeting_oct_31_2012'>October 31st, 2012</h3>
     <dl>
       <dt>
