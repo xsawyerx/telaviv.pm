@@ -13,5 +13,11 @@
                                 <p>If you feel like giving a talk, contact the <a href="http://mail.perl.org.il/mailman/listinfo/perl/"><em>Israeli Perl Mongers mailing list</em></a>, or contact <a href="mailto:xsawyerx ATT cpan DOTT org"><em>Sawyer X</em></a> directly.</p>
                                 <p>The meetings are suitable for beginners, intermediates and advanced!</p>
 				</div>
+				<h2 class="title">Source</h2>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+                                <p>The sources of this site can be found <a href="http://github.com/xsawyerx/telaviv.pm">Github</a></p>
+				</div>
+
 			</div>
 [% END %]
