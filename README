@@ -12,6 +12,17 @@ Once updated, simply run:
 
     $ ./bin/create.sh
 
+To copy the files, I use Cadaver:
+
+    $ cd generated
+    $ ../bin/connect.sh
+
+You can set up ~/.netrc for the credentials so you do't have to remember them:
+
+    machine  groups.pm.org
+    login    xsawyerx
+    password yourpasswordhere
+
 What's index.old.html:
 
 A piece of history. :)
