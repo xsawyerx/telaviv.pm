@@ -3,6 +3,10 @@
 <h2 class="title">Previous Events</h2>
 <div style="clear: both;">&nbsp;</div>
 <div class='entry'>
+  <h3 id='meeting_dec_26_2012'>December 26th, 2012</h3>
+    <p>This meeting was a practical one, focusing on testing. We began with a talk on testing, explaining what tests are, what needs testing, and how to get started with it. We then split up and hack away on tests.</p>
+</div>
+<div class='entry'>
   <h3 id='meeting_nov_28_2012'>November 28th, 2012</h3>
     <dl>
       <dt>
