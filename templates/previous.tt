@@ -3,6 +3,35 @@
 <h2 class="title">Previous Events</h2>
 <div style="clear: both;">&nbsp;</div>
 <div class='entry'>
+  <h3 id='meeting_may_22_2013'>May 22nd, 2013</h3>
+    <dl>
+      <dt>
+        <strong>Asynchronous Programming FTW! :: Sawyer X</strong>
+      </dt>
+      <dd>
+        <p> The new age is all about non-blocking asynchronous creative responsive deconstructive</p>
+            refactored decoupled conjectured applications. If you&apos;re not on the event loop wagon
+            loop, you&apos;re missing out!
+        <p>
+            What the hell am I talking about? Am I just drunk? How many of the above words are totally made-up?
+            These questions and more will be answered at this talk!
+        </p>
+      </dd>
+      <dt>
+        <strong>Rx.pl - Reactive Extensions for Perl :: Ran Eilam</strong>
+        <a href='https://github.com/eilara/Rx.pl'>github.com/eilara/Rx.pl</a>
+      </dt>
+      <dd>
+        <p>A library for composing async programs. Because writing async code is hard, but working with Perl lists is easy. Lets turn events into lists, and reap the benefits:</p>
+        <ul></ul>
+        <li>Elegant async programming without callback nesting, using operators we all know from working with Perl lists&lt;/li&gt;</li>
+        <li>Managing and coordinating events, e.g. start an HTTP request when timeout on key press if previous HTTP request was OK and arrived in the last 10 seconds&lt;/li&gt;</li>
+        <li>Programming with stream transformations, instead of objects and methods-say hello to beautiful functional designs with well defined state and side-effects. Replace boring UML diagrams with fun marble diagrams&lt;/li&gt;</li>
+        <li>Stop writing and rewriting retry, timeout, throttle, buffer, window, counters, caching, and aggregate functions for each project. Instead create your processes as observables, then enjoy a rich library of existing operators&lt;/li&gt;</li>
+      </dd>
+    </dl>
+</div>
+<div class='entry'>
   <h3 id='meeting_dec_26_2012'>December 26th, 2012</h3>
     <p>This meeting was a practical one, focusing on testing. We began with a talk on testing, explaining what tests are, what needs testing, and how to get started with it. We then split up and hack away on tests.</p>
 </div>
