@@ -8,27 +8,15 @@
                             <b>Yeda Am 8 (Mitchel Building)</b><br/>
                             <b>Room 2103</b></p>
 
-                            <p>Two talks, and an emotional farewell to our fearless leader who is moving from TelAviv.pm to Amsterdam.pm.</p>
+                            <h4>Erez Schatz - How to Welcome Beginners to Perl</h4>
 
-                            <h4>Asynchronous Programming FTW! :: Sawyer X</h4>
-                            <p>The new age is all about non-blocking asynchronous creative responsive deconstructive refactored decoupled conjectured applications. If you're not on the event loop wagon loop, you're missing out!</p>
+                            <h4>Issac Goldstand - Distributed Apps with Gearman</h4>
 
-                            <p>What the hell am I talking about? Am I just drunk? How many of the above words are totally made-up? These questions and more will be answered at this talk!</p>
-
-                            <h4>Rx.pl - Reactive Extensions for Perl :: Ran Eilam</h4>
-
-                            <p><a href="https://github.com/eilara/Rx.pl">github.com/eilara/Rx.pl</a></p>
-
-                            <p>A library for composing async programs. Because writing async code is hard, but working with Perl lists is easy. Lets turn events into lists, and reap the benefits:</p>
-
-                            <ul>
-                                <li>Elegant async programming without callback nesting, using operators we all know from working with Perl lists</li>
-
-                                <li>Managing and coordinating events, e.g. start an HTTP request when timeout on key press if previous HTTP request was OK and arrived in the last 10 seconds</li>
-
-                                <li>Programming with stream transformations, instead of objects and methods-say hello to beautiful functional designs with well defined state and side-effects. Replace boring UML diagrams with fun marble diagrams</li>
-
-                                <li>Stop writing and rewriting retry, timeout, throttle, buffer, window, counters, caching, and aggregate functions for each project. Instead create your processes as observables, then enjoy a rich library of existing operators</li>
+                            <p>Gearman is a framework for writing distributed applications across many
+                                        nodes.  It allows you to do work in parallel, load balance processes and
+                                        write applications across several programming languages.  In this
+                                        presentation we'll learn how to get started writing Gearman-powered
+                                        applications in Perl.</p>
 
                             <h3>Perl Mongers</h3>
                             <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
