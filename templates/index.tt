@@ -3,20 +3,19 @@
                         <h2 class="title">Welcome!</h2>
                         <div style="clear: both;">&nbsp;</div>
                         <div class="entry">
-                            <h3>Next meeting: 23 October 2013!</h3>
-                            <p>Our next meeting will be held on Wednesday, 23 October 2013!<br/>
+                            <h3>Next meeting: 28 November 2013!</h3>
+                            <p>Our next meeting will be held on Wednesday, 28 November 2013!<br/>
                             <b>Shenkar College Building in Anna Frank St., Ramat Gan</b><br/>
                             <b>Room 247 (previously known as room 407)</b></p>
 
-                            <h4>Erez Schatz - How to Welcome Beginners to Perl</h4>
+                            <p>Ori Idan - Using Linux and Perl for Testing Hardware</p>
 
-                            <h4>Issac Goldstand - Distributed Apps with Gearman</h4>
-
-                            <p>Gearman is a framework for writing distributed applications across many
-                                        nodes.  It allows you to do work in parallel, load balance processes and
-                                        write applications across several programming languages.  In this
-                                        presentation we'll learn how to get started writing Gearman-powered
-                                        applications in Perl.</p>
+                            <p>Every electronic circuit must be checked before it is delivered to the
+                            customer. The check should perform a functional test of all the circuit’s
+                            functions. In mass production, an automatic test is a must. In this talk, I
+                            will talk about the implementation of some functional test systems which I have
+                            implemented for several customers. All these systems use Linux as their
+                            operating systems and Perl for the actual tests.</p>
 
                             <h3>Perl Mongers</h3>
                             <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
@@ -24,7 +23,7 @@
 
                             <h3>Location</h3>
                             <p>All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan</strong>!<br/>
-                            We get together at <strong>6:30pm</strong>, and talks begin at <strong>7:00pm</strong>.</p>
+                            We get together at <strong>18:30</strong>, and talks begin at <strong>19:00</strong>.</p>
                         </div>
                     </div>
 [% END %]
