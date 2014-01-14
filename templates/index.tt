@@ -3,19 +3,35 @@
                         <h2 class="title">Welcome!</h2>
                         <div style="clear: both;">&nbsp;</div>
                         <div class="entry">
-                            <h3>Next meeting: 27 November 2013!</h3>
-                            <p>Our next meeting will be held on Wednesday, 27 November 2013!<br/>
-                            <b>Shenkar College Building in Anna Frank St., Ramat Gan</b><br/>
-                            <b>Room 247 (previously known as room 407)</b></p>
+                            <h3>Next meeting: 29 January 2014!</h3>
+                            <p>Our next meeting will be held on Wednesday, 29 January 2014!<br/>
+                            <b>Shenkar College Mitchell Building in Yeda Am St., Ramat Gan</b><br/>
+                            <b>Room 2207</b></p>
 
-                            <p>Ori Idan - Using Linux and Perl for Testing Hardware</p>
+                            <p>Ynon Perek — The Catalyst Web Development Framework</p>
 
-                            <p>Every electronic circuit must be checked before it is delivered to the
-                            customer. The check should perform a functional test of all the circuit’s
-                            functions. In mass production, an automatic test is a must. In this talk, I
-                            will talk about the implementation of some functional test systems which I have
-                            implemented for several customers. All these systems use Linux as their
-                            operating systems and Perl for the actual tests.</p>
+<p>
+<a href="http://www.catalystframework.org/">Catalyst</a> is a web development framework for Perl.
+</p>
+
+<p>
+The talk will involve:
+</p>
+
+<ul>
+<li>A small comparison with other web frameworks (or why you should choose
+catalyst)</li>
+
+<li>Writing a dead simple REST API</li>
+
+<li>Rendering some HTML with Template Toolkit</li>
+
+<li>Integrating with plack</li>
+
+<li>Integrating with DBIx::Class</li>
+
+<li>Questions &amp; Answers</li>
+</ul>
 
                             <h3>Perl Mongers</h3>
                             <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
