@@ -3,37 +3,25 @@
                         <h2 class="title">Welcome!</h2>
                         <div style="clear: both;">&nbsp;</div>
                         <div class="entry">
-                            <h3>Next meeting: 29 January 2014!</h3>
-                            <p>Our next meeting will be held on Wednesday, 29 January 2014!<br/>
-                            <b>Shenkar College Mitchell Building in Yeda Am St., Ramat Gan</b><br/>
-                            <b>Room 2207</b></p>
+                            <h3>Next meeting: 26 February 2014!</h3>
+                            <p>Our next meeting will be held on Wednesday, 26 February 2014!<br/>
+                            <b>Shenkar College, Old Building in Anna Frank St., Ramat Gan</b><br/>
+                            <b>Room 247</b></p>
 
-                            <p>Ynon Perek — The Catalyst Web Development Framework</p>
+                            <p>Gabor Szabo - The Dart Programming Language</p>
 
 <p>
 <a href="http://www.catalystframework.org/">Catalyst</a> is a web development framework for Perl.
 </p>
 
 <p>
-The talk will involve:
+<a href="http://www.dartlang.org/">Dart</a> is a programming language
+developed by Google “to replace JavaScript”. I am currently exploring
+it and I’d like to share what I’ve found so far.
 </p>
 
-<ul>
-<li>A small comparison with other web frameworks (or why you should choose
-catalyst)</li>
-
-<li>Writing a dead simple REST API</li>
-
-<li>Rendering some HTML with Template Toolkit</li>
-
-<li>Integrating with plack</li>
-
-<li>Integrating with DBIx::Class</li>
-
-<li>Questions &amp; Answers</li>
-</ul>
-
                             <h3>Perl Mongers</h3>
+
                             <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
                             <p><strong>(The meetings are suitable for beginner, intermediate and advanced developers)</strong></p>
 
