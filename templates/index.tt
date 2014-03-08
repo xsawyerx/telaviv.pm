@@ -3,22 +3,28 @@
                         <h2 class="title">Welcome!</h2>
                         <div style="clear: both;">&nbsp;</div>
                         <div class="entry">
-                            <h3>Next meeting: 26 February 2014!</h3>
-                            <p>Our next meeting will be held on Wednesday, 26 February 2014!<br/>
+                            <h3>Next meeting: 26 March 2014!</h3>
+                            <p>Our next meeting will be held on Wednesday, 26 March 2014!<br/>
                             <b>Shenkar College, Old Building in Anna Frank St., Ramat Gan</b><br/>
                             <b>Room 247</b></p>
 
-                            <p>Gabor Szabo - The Dart Programming Language</p>
+                            <p>Meir Guttman — “Special challenges in Hardware Description Languages”</p>
 
-<p>
-<a href="http://www.catalystframework.org/">Catalyst</a> is a web development framework for Perl.
-</p>
+<ul>
 
-<p>
-<a href="http://www.dartlang.org/">Dart</a> is a programming language
-developed by Google “to replace JavaScript”. I am currently exploring
-it and I’d like to share what I’ve found so far.
-</p>
+<li>What's it all about</li>
+
+<li>The advent of programmable logic</li>
+
+<li>History</li>
+
+<li>Parallelism taken to its extreme</li>
+
+<li>Simulation</li>
+
+<li>Hardware compilation</li>
+
+</ul>
 
                             <h3>Perl Mongers</h3>
 
