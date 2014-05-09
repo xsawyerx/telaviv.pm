@@ -3,28 +3,20 @@
     <h2 class="title">Welcome!</h2>
     <div style="clear: both;">&nbsp;</div>
     <div class="entry">
-        <h3>Next meeting: 26 March 2014!</h3>
-        <p>Our next meeting will be held on Wednesday, 26 March 2014!<br/>
+        <h3>Next meeting: 28 May 2014!</h3>
+        <p>Our next meeting will be held on Wednesday, 28 May 2014!<br/>
         <b>Shenkar College, Old Building in Anna Frank St., Ramat Gan</b><br/>
         <b>Room 247</b></p>
 
-        <p>Meir Guttman — “Special challenges in Hardware Description Languages”</p>
+        <p>Ynon Perek - “The Vim Text Editor for Perl Developers”</p>
 
-<ul>
-
-<li>What's it all about</li>
-
-<li>The advent of programmable logic</li>
-
-<li>History</li>
-
-<li>Parallelism taken to its extreme</li>
-
-<li>Simulation</li>
-
-<li>Hardware compilation</li>
-
-</ul>
+<p>
+Editing text takes a lot of time. By using and customising a good text editor,
+we can get more work done in less time. In this talk I’m going to take Vim and
+show how a perl developer can get a lot more productive by using it. We’ll
+start with a plain out-of-the-box Vim installation and add plugins and
+customisations to create a perl oriented workflow.
+</p>
 
         <h3>Perl Mongers</h3>
 
@@ -32,7 +24,7 @@
         <p><strong>(The meetings are suitable for beginner, intermediate and advanced developers)</strong></p>
 
         <h3>Location</h3>
-        <p>All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan</strong>!<br/>
+        <p>All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan</strong>.<br/>
         We get together at <strong>18:30</strong>, and talks begin at <strong>19:00</strong>.</p>
     </div>
 </div>
