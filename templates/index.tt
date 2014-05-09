@@ -1,14 +1,14 @@
 [% WRAPPER root.tt %]
-                    <div class="post">
-                        <h2 class="title">Welcome!</h2>
-                        <div style="clear: both;">&nbsp;</div>
-                        <div class="entry">
-                            <h3>Next meeting: 26 March 2014!</h3>
-                            <p>Our next meeting will be held on Wednesday, 26 March 2014!<br/>
-                            <b>Shenkar College, Old Building in Anna Frank St., Ramat Gan</b><br/>
-                            <b>Room 247</b></p>
+<div class="post">
+    <h2 class="title">Welcome!</h2>
+    <div style="clear: both;">&nbsp;</div>
+    <div class="entry">
+        <h3>Next meeting: 26 March 2014!</h3>
+        <p>Our next meeting will be held on Wednesday, 26 March 2014!<br/>
+        <b>Shenkar College, Old Building in Anna Frank St., Ramat Gan</b><br/>
+        <b>Room 247</b></p>
 
-                            <p>Meir Guttman — “Special challenges in Hardware Description Languages”</p>
+        <p>Meir Guttman — “Special challenges in Hardware Description Languages”</p>
 
 <ul>
 
@@ -26,14 +26,14 @@
 
 </ul>
 
-                            <h3>Perl Mongers</h3>
+        <h3>Perl Mongers</h3>
 
-                            <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
-                            <p><strong>(The meetings are suitable for beginner, intermediate and advanced developers)</strong></p>
+        <p>The group organizes social events centered around Perl in the greater Tel Aviv, Israel area. We have talks, lectures, and casual meetings. Come meet fellow Perl (and non-Perl) geeks, share a snack, and have some laughs!</p>
+        <p><strong>(The meetings are suitable for beginner, intermediate and advanced developers)</strong></p>
 
-                            <h3>Location</h3>
-                            <p>All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan</strong>!<br/>
-                            We get together at <strong>18:30</strong>, and talks begin at <strong>19:00</strong>.</p>
-                        </div>
-                    </div>
+        <h3>Location</h3>
+        <p>All meetings take place at <strong>Shenkar College, Anna Frank 12, Ramat Gan</strong>!<br/>
+        We get together at <strong>18:30</strong>, and talks begin at <strong>19:00</strong>.</p>
+    </div>
+</div>
 [% END %]
