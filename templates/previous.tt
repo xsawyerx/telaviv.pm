@@ -3,6 +3,19 @@
 <h2 class="title">Previous Events</h2>
 <div style="clear: both;">&nbsp;</div>
 <div class='entry'>
+  <h3 id='meeting_26_mar_2014'>26 March 2014</h3>
+    <p>
+      <strong>Meir Guttman — “Special challenges in Hardware Description Languages”</strong>
+    </p>
+    <ul>
+      <li>What&apos;s it all about</li>
+      <li>The advent of programmable logic</li>
+      <li>History</li>
+      <li>Parallelism taken to its extreme</li>
+      <li>Simulation</li>
+      <li>Hardware compilation</li>
+    </ul>
+</div>
   <h3 id='meeting_may_22_2013'>May 22nd, 2013</h3>
     <dl>
       <dt>
@@ -30,7 +43,6 @@
         <li>Stop writing and rewriting retry, timeout, throttle, buffer, window, counters, caching, and aggregate functions for each project. Instead create your processes as observables, then enjoy a rich library of existing operators&lt;/li&gt;</li>
       </dd>
     </dl>
-</div>
 <div class='entry'>
   <h3 id='meeting_dec_26_2012'>December 26th, 2012</h3>
     <p>This meeting was a practical one, focusing on testing. We began with a talk on testing, explaining what tests are, what needs testing, and how to get started with it. We then split up and hack away on tests.</p>
