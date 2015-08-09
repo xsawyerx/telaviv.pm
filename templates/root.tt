@@ -37,7 +37,7 @@ Released   : 20120902
         <div id="page">
 
         <div id="content">
-            [% content %]
+[%- content -%]
             <div style="clear: both;">&nbsp;</div>
         </div>
 
